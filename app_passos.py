@@ -275,7 +275,7 @@ with aba1:
     )
 
     '''
-    O grafico nos mostra uma oscilação na distribuição de alunos classificados / premiados na contagem geral em 2021, contudo pode-se destacar pontos positivos 
+    O gráfico nos mostra uma oscilação na distribuição de alunos classificados / premiados na contagem geral em 2021, contudo pode-se destacar pontos positivos 
     na recuperação do quantitativo, dado uma maior distribuição de alunos nas faixas superiores aos niveis observados em 2020.
     Abaixo podemos visualizar mais nitidamente esse efeito:'''
 
