@@ -339,6 +339,12 @@ with aba1:
             A escolha do K-means deve-se pelo fato de ser um algoritmo rápido e eficaz, além de possuir uma caracteristica de convergência em etapas finitas (sem oscilar indefinidamente) já que a
             a distância quadrada média entre as instâncias e o centróide mais próximo só diminui a cada etapa de aprendizado. Seu uso está presente em diversas áreas tais
             como segmentação de clientes, mecanismos de buscas, segmentação de imagens, detecção de anomalias entre outros.
+
+            Os eixos dos gráficos abaixo estão representados da seguinte forma:
+            
+            * x = dados do ano de 2020
+            * y = dados do ano de 2021
+            * z = dados do ano de 2022
             
             '''
             # dataframe do EDA realizado com o K-Means 
