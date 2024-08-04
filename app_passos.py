@@ -747,7 +747,7 @@ with aba1:
                     else:
                         label = 'Unknown'
 
-                    st.subheader(f'Predição INDE com Random Forest (Features Importances): {prediction[0]}')
+                    st.subheader(f'Predição INDE com Random Forest (Features Importances): {prediction[0]:.3f}')
                     st.subheader(f'Pedra: {label}')
 
                     # Obter as importâncias das características do modelo
