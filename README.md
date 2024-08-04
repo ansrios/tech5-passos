@@ -1,2 +1,2 @@
 # tech5-passos
-Datatho - Passos Magicos Tech 5
+Datathon - Passos Magicos Tech 5
