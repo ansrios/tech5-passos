@@ -49,7 +49,7 @@ ax = sns.set_palette('pastel')
 
 st.set_page_config(layout='wide')
 
-st.title('Draft - Datathon - Passos Magicos')
+st.title('Datathon - Tech 5 - Passos Magicos')
 
 file_path = 'PEDE_PASSOS_DATASET_FIAP.csv'
 pd.set_option('display.max_columns', None)
