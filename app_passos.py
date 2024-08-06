@@ -794,7 +794,7 @@ with aba1:
         with coluna1:
             st.subheader('Previsão do INDE com KNN Regressor')
             '''
-            De acordo com a documentação do Sklearn, a regressão baseada no KNN é comendada para ser utilizada em casos em que os rótulos de dados são variáveis ​​contínuas em vez de discretas, por essa razão definimos esse algoritmo como preditor,
+            A regressão baseada no KNN (K-Nearest Neighbors) é recomendada para ser utilizada em casos em que os rótulos de dados são variáveis ​​contínuas em vez de discretas, por essa razão definimos esse algoritmo como preditor,
             dado que temos um conjunto de notas médias.
 
             O treinamento do modelo teve como base as informações do último ano da base (2022) considerando o período pós pandemia, com o objetivo também de reduzirmos a dimesionalidade dos dados para melhor comportamento do algoritimo.
