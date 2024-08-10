@@ -78,7 +78,7 @@ with aba1:
     Dado a inconsistência de algumas linhas e colunas não disponiveis como os dados dos alunos ao longo dos anos de 2020,  2021 e 2022, além do acréscimo de novas colunas ao longo do tempo e alta dimensionalidade dos dados, 
     aplicamos técnicas distintas para melhor entendimentos.
     Nessa análise buscamos trabalhar com os principais indicadores que de acordo com a coleta das informações junto à equipe da Passos Mágicos, são os indicadores de maior diferencial em seu programa de 
-    aceleração do conhecimento'''
+    aceleração do conhecimento.'''
 
     ## Graf 1 - Evolução INDE
 
@@ -385,7 +385,7 @@ with aba1:
             - Cluster 2 - grupo de 40 alunos com média entre 6,2 e 5,7, com médiana de 5,7 em 2022, onde temos o cluster com menores médias, especialmente em 2021 (4,3 com máximo de 5,7)
             - Cluster 3 - esse grupo possui 73 alunos com média performance descrescente ao longo do tempo (média 2020 = 7,2, 2021 = 6,5 e 2022 = 5,9), sendo o 2º grupo de menor performance, atrás do cluster 0. O que os diferencia é que nesse grupo há uma tendência de queda nos 3 anos observados. Já no cluster 0, temos uma baixa média, porém com uma queda e ligeira recuperação no indicador mais recente (2022)
 
-            Nota-se também de forma geral um desvio padrão abaixo de 1 em todos os clusters
+            Nota-se também de forma geral um desvio padrão abaixo de 1 em todos os clusters.
            
             '''
 
@@ -656,7 +656,7 @@ with aba1:
             que é igual à redução de variância como critério de seleção de recursos e minimiza a perda L2 usando a média de cada nó terminal.
 
             Esse outra vertente pode servir como base para estudos futuros para determinados comportamentos dos indicadores do ponto de vista da predição do INDE
-            considerando métodos de esemble.
+            considerando métodos de ensemble.
     
             '''
 
