@@ -76,7 +76,7 @@ with aba1:
     * Insights e sugestões obtidas com o nosso orientador do projeto (Profº Willian) para direcionamento no desenvolvimento dessa atividade
 
     Dado a inconsistência de algumas linhas e colunas não disponiveis como os dados dos alunos ao longo dos anos de 2020,  2021 e 2022, além do acréscimo de novas colunas ao longo do tempo e alta dimensionalidade dos dados, 
-    aplicamos técnicas distintas para melhor entendimentos.
+    aplicamos técnicas distintas para melhor entendimento.
     Nessa análise buscamos trabalhar com os principais indicadores que de acordo com a coleta das informações junto à equipe da Passos Mágicos, são os indicadores de maior diferencial em seu programa de 
     aceleração do conhecimento.'''
 
