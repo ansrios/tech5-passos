@@ -775,7 +775,7 @@ with aba1:
 
                     '''
                     O algoritimo identificou durante a fase de treinamento as 3 features de maior relevância na predição do INDE (base de dados 2022): IDA (indicador de Aprendizagem - maior destaque),
-                    IEG (Indicador de Engajamento) e IPV (indicador de Ponto de Virada). De certa forma corrobora com uma dos insigths trazidos pela equipe da Passos do ponto de vista do olhar na evolução dos indicadores de Aprendizagem (foco do desenvolvimento escolar),
+                    IEG (Indicador de Engajamento) e IPV (indicador de Ponto de Virada). De certa forma corrobora com um dos insigths trazidos pela equipe da Passos do ponto de vista do olhar na evolução dos indicadores de Aprendizagem (foco do desenvolvimento escolar),
                     Engajamento (importante para a contribuição e participação nas atividades extra-classe e de integração social) e Ponto de Virada (quando o aluno de fato está no "flow" do aprendizado).
 
                     O MSE (Mean Squared Error) do Random Forest foi de 0,1019.
