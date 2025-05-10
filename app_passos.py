@@ -109,7 +109,7 @@ with aba1:
         ),
         xaxis=dict(showgrid=False, tickfont=dict(size=16)),
         yaxis=dict(showgrid=False, tickfont=dict(size=16)),
-        plot_bgcolor='white',
+        plot_bgcolor='black',
         barmode='overlay',  # Define o modo de sobreposição para as barras
         bargap=0,  # Elimina o espaço entre as barras do mesmo grupo
         bargroupgap=0 ,
@@ -165,7 +165,7 @@ with aba1:
         ),
         xaxis=dict(showgrid=False),
         yaxis=dict(showgrid=False),
-        plot_bgcolor='white'
+        plot_bgcolor='black'
     )
 
     fig_bolsa.update_traces(
@@ -208,7 +208,7 @@ with aba1:
         ),
         xaxis=dict(showgrid=False),
         yaxis=dict(showgrid=False),
-        plot_bgcolor='white'
+        plot_bgcolor='black'
     )
 
     fig_indicado_bolsa.update_traces(
@@ -270,7 +270,7 @@ with aba1:
         ),
         xaxis=dict(showgrid=False),
         yaxis=dict(showgrid=False),
-        plot_bgcolor='white'
+        plot_bgcolor='black'
     )
     )
 
@@ -298,7 +298,7 @@ with aba1:
         ),
         xaxis=dict(showgrid=False),
         yaxis=dict(showgrid=False),
-        plot_bgcolor='white'
+        plot_bgcolor='black'
     )
     )
    
